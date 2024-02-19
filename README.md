@@ -1,4 +1,4 @@
-#Stock Market Prediction App
+# Stock Market Prediction App
 This system predicts the stock prices of NVIDIA on Fridays based on the stock prices on the four previous days, that is, on Monday until Thursday.
 
 This is a group project made by our team: Noorul Ghousiah; Nurain Ainaa Aqilah; Sarah Aishah; Siti Aliaa
